@@ -1,0 +1,15 @@
+C:\Users\USUARIO\jugo\bin\Debug\net7.0\jugo.exe
+C:\Users\USUARIO\jugo\bin\Debug\net7.0\jugo.deps.json
+C:\Users\USUARIO\jugo\bin\Debug\net7.0\jugo.runtimeconfig.json
+C:\Users\USUARIO\jugo\bin\Debug\net7.0\jugo.dll
+C:\Users\USUARIO\jugo\bin\Debug\net7.0\jugo.pdb
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.AssemblyInfo.cs
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.dll
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\refint\jugo.dll
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.pdb
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\jugo.genruntimeconfig.cache
+C:\Users\USUARIO\jugo\obj\Debug\net7.0\ref\jugo.dll
